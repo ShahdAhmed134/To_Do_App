@@ -5,10 +5,10 @@ import 'package:to_do_app/provider/app_config_provider.dart';
 
 import '../app_color.dart';
 import '../firebase_utils.dart';
+import '../l10n/app_localizations.dart';
 import '../model/task.dart';
 import '../provider/list_provider.dart';
 import '../provider/user_provider.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class EditTask extends StatefulWidget {
 static const String routeName ='edit';

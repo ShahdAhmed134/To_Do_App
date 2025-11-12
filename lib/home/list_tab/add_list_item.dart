@@ -7,7 +7,7 @@ import 'package:to_do_app/edit/edit_task.dart';
 import 'package:to_do_app/firebase_utils.dart';
 import 'package:to_do_app/model/task.dart';
 import 'package:to_do_app/provider/user_provider.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import '../../l10n/app_localizations.dart';
 
 import '../../provider/app_config_provider.dart';
 import '../../provider/list_provider.dart';

@@ -7,8 +7,8 @@ import 'package:to_do_app/provider/app_config_provider.dart';
 import 'package:to_do_app/provider/list_provider.dart';
 import 'package:to_do_app/provider/user_provider.dart';
 import 'package:to_do_app/home/show_info.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
+import '../l10n/app_localizations.dart';
 import 'list_tab/AddTask.dart';
 import 'list_tab/list_tab.dart';
 

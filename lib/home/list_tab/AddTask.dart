@@ -6,8 +6,8 @@ import 'package:to_do_app/model/task.dart';
 import 'package:to_do_app/provider/app_config_provider.dart';
 import 'package:to_do_app/provider/list_provider.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+import '../../l10n/app_localizations.dart';
 import '../../provider/user_provider.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class AddTask extends StatefulWidget {
   const AddTask({super.key});
